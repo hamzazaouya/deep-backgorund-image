@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ 
+    
+}
+
+div {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 100px;
+    border: 2px solid #000;
+}
+
+.tow {
+    overflow: hidden;
+    background-image: url(img/flock-of-birds-917494.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center
+}
+
